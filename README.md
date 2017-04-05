@@ -5,9 +5,11 @@
 - hook.io https://hook.io
 - IronFunctions http://iron.io
 - Google Cloud Functions https://cloud.google.com/functions/docs/
+- Fission http://fission.io
+- Funktion https://github.com/funktionio
 - Microsoft Azure Functions https://azure.microsoft.com/en-us/services/functions/
 - OpenWhisk
-  - Apache OpenWhisk main http://openwhisk.org/ 
+  - Apache OpenWhisk main http://openwhisk.org/
   - Apache OpenWhisk github https://github.com/openwhisk/
   - IBM OpenWhisk main http://www.ibm.com/cloud-computing/bluemix/openwhisk/
 - StackStorm https://stackstorm.com
